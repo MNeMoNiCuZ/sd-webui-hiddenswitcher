@@ -1,0 +1,2 @@
+C:\AI\stable-diffusion-webui\models\Stable-diffusion\NSFW
+C:\AI\stable-diffusion-webui\models\Lora\NSFW
